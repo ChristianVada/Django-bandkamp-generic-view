@@ -1,4 +1,5 @@
-# M5 - BandKamp Generic View
+# Introdução
+Na empresa em que você trabalha, o líder de tecnologia solicitou que você acesse um projeto antigo, no qual os usuários poderiam se cadastrar, cadastrar álbuns e músicas. Esse projeto foi desenvolvido com Django, utilizando APIView, Serializer e SQLite3. Ele deseja que você faça uma refatoração, aplicando os conceitos de Generic View, Model Serializer e alterando o banco de dados para o PostgreSQL.
 
 ## Instalação dos pacotes de teste
 
